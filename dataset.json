@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "1",
+        "image": "1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the motorcyle?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the plants?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "image": "3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the frisbee?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "image": "5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bowtie?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "image": "6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tissue?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "image": "7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the door?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "image": "8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the road stripes?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "image": "9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the flower?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "image": "10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the turf grass?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "image": "11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the right chair?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "image": "12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the jeans in the back?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "image": "13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the plate?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "image": "14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the chair?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "image": "15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cap?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "image": "16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the airplane?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "image": "17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the carriage?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "image": "18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the frosting at the right?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "image": "19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the surfboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "image": "20.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the batter'shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "image": "21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the glass in front?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "image": "22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the whaterver that is on the palm?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "image": "23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the safety jacket?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "image": "24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the pants?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "image": "25.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the surfboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "image": "26.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "image": "27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cat?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "image": "28.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the background?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "image": "29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the jacket sleeve edge?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "image": "30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the handle?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "image": "31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tire?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "image": "32.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bowl?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "image": "33.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the grass?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "image": "34.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the hairband?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "image": "35.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the lamp?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "image": "36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bushes?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "image": "37.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "image": "38.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the door?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "image": "39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the wine?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "image": "40.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the transparent mug?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "image": "41.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the suit?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "image": "42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the skirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "image": "43.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the salmon roe?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "image": "44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the leaf?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "image": "45.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the spectacle rim?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "image": "46.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the second cart from the front?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "image": "47.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the person's shirt on the top left corner?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "image": "48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the orange?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "image": "49.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cake interior?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "image": "50.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the platform edge?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "image": "51.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tires?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "image": "52.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the screen?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "image": "53.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the door?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "image": "54.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "image": "55.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "image": "56.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the sofa at the end?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "image": "57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the donut glaze at the top?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "image": "58.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shadows?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "image": "59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the dog?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "image": "60.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the image lightining conditions?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "image": "61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the salad?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "image": "62.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the handle?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "63",
+        "image": "63.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cat?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "image": "64.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the basin?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "image": "65.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the buffalo's eye?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "image": "66.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the airplane's tail?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "image": "67.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the CocaCola banner?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "image": "68.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt of the lady on the right?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "69",
+        "image": "69.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the wall?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "image": "70.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the center building with clock tower?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "image": "71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the hood?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "image": "72.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tail?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "image": "73.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the middle cow?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "image": "74.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "75",
+        "image": "75.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the grass at the bottom?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "image": "76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cat's paw?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "image": "77.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the lestmost leaf in the bowl?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "image": "78.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the radish?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "image": "79.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the clock?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "image": "80.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the mug?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "image": "81.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bikini?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "82",
+        "image": "82.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the thing at the bottom region of the plate?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "image": "83.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the long bar painted on the left of the truck?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "image": "84.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the moon?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "image": "85.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bulb?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "image": "86.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the horse?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "image": "87.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the most prominent feature on the white pillow?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "image": "88.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the birthday girl's hat?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "image": "89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bench?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "image": "90.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the back half of the airplane?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "image": "91.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the umbrella edge?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "image": "92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the truck?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "image": "93.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the leftmost jug?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "94",
+        "image": "94.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the big dog?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "image": "95.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the signboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "96",
+        "image": "96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the curtains?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "image": "97.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the peperonni?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "98",
+        "image": "98.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bike's front body?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "99",
+        "image": "99.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the thing the giraffes are eating?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "100",
+        "image": "100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the dish pizza's crust?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "101",
+        "image": "101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the winter cap?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "image": "102.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the region behind the owl?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "103",
+        "image": "103.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the sky?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "image": "104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the graffiti?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "105",
+        "image": "105.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the orange juice?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "106",
+        "image": "106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the dog's belly?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "107",
+        "image": "107.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the keyboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "108",
+        "image": "108.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the train bumper?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "image": "109.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the laptop?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "image": "110.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the strawberry?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "111",
+        "image": "111.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the head?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "112",
+        "image": "112.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the wierd thing near the snake?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "113",
+        "image": "113.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the signboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "image": "114.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the thing that is concealing the middle giraffe?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "115",
+        "image": "115.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shorts?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "116",
+        "image": "116.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cuffs of the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "117",
+        "image": "117.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the truck?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "118",
+        "image": "118.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the region above the left animal?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "119",
+        "image": "119.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the Rights?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "120",
+        "image": "120.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cat belly?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "121",
+        "image": "121.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the jacket the 6th kid from the left is wearing?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "122",
+        "image": "122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the taillight?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "123",
+        "image": "123.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the stop sign?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "124",
+        "image": "124.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the pond?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "125",
+        "image": "125.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the chairs?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "126",
+        "image": "126.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bald person shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "127",
+        "image": "127.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the beak?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "128",
+        "image": "128.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the seagul body?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "image": "129.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the taxi?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "130",
+        "image": "130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tree crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "131",
+        "image": "131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tray?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "132",
+        "image": "132.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the toilet water?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "133",
+        "image": "133.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the caps?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "134",
+        "image": "134.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the motorcycle lights?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "135",
+        "image": "135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the goofy looking rabbit?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "136",
+        "image": "136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the broccoli?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "137",
+        "image": "137.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the basil on pizza?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "138",
+        "image": "138.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the left donuts?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "139",
+        "image": "139.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the METAMORPHOSIS background?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "140",
+        "image": "140.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bag help by lady seating at the end towards the inside of the cabin?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "141",
+        "image": "141.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the flowers?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "142",
+        "image": "142.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the boat flags?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "143",
+        "image": "143.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the pier posts?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "144",
+        "image": "144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tie?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "145",
+        "image": "145.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the wheelchair seat?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "146",
+        "image": "146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the mirror frame?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "147",
+        "image": "147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the thing on the left of the meat?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "148",
+        "image": "148.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the left half of the heart?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "149",
+        "image": "149.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bike helmet?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "150",
+        "image": "150.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the surfboards?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "151",
+        "image": "151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "152",
+        "image": "152.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shirt of the guy near the flowers?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "153",
+        "image": "153.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the drill?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "154",
+        "image": "154.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the sunlight?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "155",
+        "image": "155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the meat inside the sandwich?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "156",
+        "image": "156.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bagpack strap?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "157",
+        "image": "157.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the oranges?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "158",
+        "image": "158.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the couch?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "159",
+        "image": "159.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the coloured stripes of the table cloth?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "160",
+        "image": "160.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cat?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "161",
+        "image": "161.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the bread slice?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "162",
+        "image": "162.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the book below the remote?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "163",
+        "image": "163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the pant of the nearest guy?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "164",
+        "image": "164.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the top half of the bus?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "165",
+        "image": "165.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the skier's outfit?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "166",
+        "image": "166.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the flower on the bus?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "167",
+        "image": "167.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the frisbee on the left hand?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "168",
+        "image": "168.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the circles within the salad?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "169",
+        "image": "169.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the currently shown traffic light sign?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "170",
+        "image": "170.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the the swirls in the front?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "171",
+        "image": "171.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the thing on the left side of the sandwiches?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "172",
+        "image": "172.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the sauce on the bun?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "173",
+        "image": "173.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the ACUPUNCTURE?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "174",
+        "image": "174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the furnace?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "175",
+        "image": "175.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the cup beside the laptop?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "176",
+        "image": "176.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the crackers?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "177",
+        "image": "177.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the head of the bird?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "178",
+        "image": "178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the things hanging?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "179",
+        "image": "179.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the signboard near the bridge railing?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "180",
+        "image": "180.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the background behind the tree branches?"
+            },
+            {
+                "from": "gpt",
+                "value": "orange"
+            }
+        ]
+    },
+    {
+        "id": "181",
+        "image": "181.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the biker's jacket?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "182",
+        "image": "182.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the shoe laces?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "183",
+        "image": "183.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the baseball glove?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "184",
+        "image": "184.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the left dog's bottom?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "185",
+        "image": "185.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the surfboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "186",
+        "image": "186.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the suitcases?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "187",
+        "image": "187.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the speckles on the curtain?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "188",
+        "image": "188.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the text on the shirt?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "189",
+        "image": "189.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the numbers?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "190",
+        "image": "190.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the towel?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "191",
+        "image": "191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the horse?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "192",
+        "image": "192.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the air conditioning vent?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "193",
+        "image": "193.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the onion slices?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "194",
+        "image": "194.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the middle surfboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "purple"
+            }
+        ]
+    },
+    {
+        "id": "195",
+        "image": "195.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the trashbin?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "196",
+        "image": "196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the frontmost surfboard?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "197",
+        "image": "197.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the room behind the curtains?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "198",
+        "image": "198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the top towel?"
+            },
+            {
+                "from": "gpt",
+                "value": "red"
+            }
+        ]
+    },
+    {
+        "id": "199",
+        "image": "199.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the plushie in the microwave?"
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "200",
+        "image": "200.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the tint of the glasses?"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    }
+]
